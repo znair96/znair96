@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @znair96
 - 👀 I’m interested in Coding/Web Development in front end and learning back end
-- 🌱 I’m currently working as a Software Development Engineer (SDE)
+- 🌱 I’m currently working as a Software Engineer II
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me znair96@gmail.com
 
